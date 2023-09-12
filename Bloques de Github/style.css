@@ -1,0 +1,37 @@
+h1{
+    color:gray;
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    width: 750px;
+    height: 200px;
+    background-color: rgb(80, 188, 238);
+    margin: 20px auto;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    }
+
+.top-nav{
+    display: flex;
+    width: 750px;
+    height: 200px;
+    background-color: rosybrown;
+    margin: 20px auto;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.side-nav{
+    display: flex;
+    width: 750px;
+    height: 200px;
+    background-color: rgb(248, 242, 208);
+    margin: 20px auto;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+}
